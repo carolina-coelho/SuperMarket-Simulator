@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1680167674 source:c:\users\kikof\onedrive\ambiente de trabalho\trabalho prático\trabalho ed\trabalho ed\funcoes.c
+	"Dados.h"
+
+1680012704 c:\users\kikof\onedrive\ambiente de trabalho\trabalho prático\trabalho ed\trabalho ed\dados.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1683796836 source:c:\users\kikof\onedrive\ambiente de trabalho\trabalho prático\trabalho ed\trabalho ed\listagenerica.c
+	"ListaGenerica.h"
+
+1683794771 c:\users\kikof\onedrive\ambiente de trabalho\trabalho prático\trabalho ed\trabalho ed\listagenerica.h
+	<stdio.h>
+	<stdlib.h>
+
+1683625050 source:c:\users\kikof\onedrive\ambiente de trabalho\trabalho prático\trabalho ed\trabalho ed\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Cliente.h"
+	"Produtos.h"
+	"Funcionarios.h"
+	"ListaGenerica.h"
+	"Uteis.h"
+
+1684227091 source:c:\users\kikof\onedrive\ambiente de trabalho\trabalho prático\trabalho ed\trabalho ed\cliente.c
+	"Cliente.h"
+	"ListaGenerica.h"
+
+1683020741 c:\users\kikof\onedrive\ambiente de trabalho\trabalho prático\trabalho ed\trabalho ed\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"Produtos.h"
+	"ListaGenerica.h"
+
+1684400996 source:c:\users\kikof\onedrive\ambiente de trabalho\trabalho prático\trabalho ed\trabalho ed\produtos.c
+	"Produtos.h"
+	"ListaGenerica.h"
+
+1684831854 c:\users\kikof\onedrive\ambiente de trabalho\trabalho prático\trabalho ed\trabalho ed\produtos.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"ListaGenerica.h"
+
+1684227071 source:c:\users\kikof\onedrive\ambiente de trabalho\trabalho prático\trabalho ed\trabalho ed\funcionarios.c
+	"Funcionarios.h"
+
+1683015802 c:\users\kikof\onedrive\ambiente de trabalho\trabalho prático\trabalho ed\trabalho ed\funcionarios.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"ListaGenerica.h"
+
+1683020332 source:c:\users\kikof\onedrive\ambiente de trabalho\trabalho prático\trabalho ed\trabalho ed\uteis.c
+	"Uteis.h"
+
+1684227075 c:\users\kikof\onedrive\ambiente de trabalho\trabalho prático\trabalho ed\trabalho ed\uteis.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1681374895 source:c:\users\kikof\onedrive\ambiente de trabalho\trabalho prático\trabalho ed\trabalho ed\caixa.c
+	"Caixa.h"
+
+1681373569 c:\users\kikof\onedrive\ambiente de trabalho\trabalho prático\trabalho ed\trabalho ed\caixa.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ListaGenerica.h"
+	"Cliente.h"
+	"Produtos.h"
+	"Funcionarios.h"
+
